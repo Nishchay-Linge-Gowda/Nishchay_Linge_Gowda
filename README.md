@@ -1,79 +1,96 @@
-# 👋 Hi, I'm Nishchay Linge Gowda  
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm Nishchay Linge Gowda</h1>
+<h3 align="center">🎯 Transforming Data into Impactful Solutions with Expertise in AI, Analytics & Engineering</h3>
 
-🎯 **Transforming Data into Impactful Solutions with Expertise in AI, Analytics, and Engineering**
-
-I’m a **Master’s student in Data Analytics Engineering at Northeastern University, Boston**, passionate about leveraging **Machine Learning, Artificial Intelligence, and Data Analytics** to solve complex, real-world problems. My work bridges **AI research, applied data science, and intelligent automation** — combining technical depth with a focus on impact and innovation.
+<p align="center">
+  <a href="https://linkedin.com/in/nishchay-linge-gowda-262701224">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:lingegowda.n@northeastern.edu or nishchaylgowda26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
 ## 🔍 About Me  
 
-- 🌱 Currently exploring **Generative AI, Computer Vision, and Advanced Predictive Modeling**  
-- 💡 Interested in building **AI systems that improve efficiency, accessibility, and decision-making**  
-- 🎓 Former **Data Science Intern at ISRO (Indian Space Research Organisation)**, where I improved data workflows by 20% using ML-driven insights  
-- 🤖 Experienced in developing **AI-powered assistants**, **predictive pricing systems**, and **sentiment analysis models** using **BERT** and **PyTorch**  
-- 🧠 Passionate about merging **analytics, creativity, and research** to design AI that makes systems smarter and more human-centered  
+🎓 **Master’s in Data Analytics Engineering** at **Northeastern University, Boston**  
+💡 Passionate about applying **AI, ML & Data Analytics** to solve real-world problems  
+🧠 Experienced in **AI-driven automation, predictive modeling, NLP & data visualization**  
+🚀 Former **Data Science Intern at ISRO**, improving workflows by 20% with ML insights  
+🤖 Built projects in **Generative AI, Computer Vision, and Natural Language Processing**  
 
 ---
 
 ## 🧰 Technical Skills  
 
-**Languages:** Python, SQL, Java, C, C++  
-**Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras, LangChain, spaCy, BERT  
-**Databases:** MySQL, PostgreSQL, Oracle ADW, Microsoft SQL Server, Neo4j  
-**Tools:** Tableau, Power BI, Excel, Seaborn, Matplotlib  
-**Concepts:** Supervised/Unsupervised Learning, NLP, Deep Learning, Forecasting, Data Visualization, Model Deployment  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects  
 
 ### 🧭 [RebalanceAI – AI-Powered Investment Portfolio Analyzer](#)
-An intelligent financial co-pilot that combines **quantitative analysis** (Sharpe Ratio) with **LLM-based sentiment scoring** to create explainable and balanced investment recommendations.  
-**Tech Stack:** Python, OpenAI API, Pandas, Plotly, LangChain, GPT Models  
+A financial co-pilot combining **quantitative metrics** and **LLM-based sentiment analysis** for smarter investment insights.  
+🛠 **Tech Stack:** Python, Pandas, Plotly, GPT Models, LangChain  
 
 ### 💬 [AI-Powered Sentiment Analysis using BERT](#)
-Fine-tuned a **BERT transformer** on 15k+ samples to classify emotions and opinions with **88% accuracy**, outperforming baseline NLP models.  
-**Tech Stack:** PyTorch, Transformers, NLP, SMILE Dataset  
+Fine-tuned **BERT** on 15k+ samples to classify sentiment with **88% accuracy**.  
+🛠 **Tech Stack:** PyTorch, Transformers, NLP  
 
 ### 🚗 [Predictive Pricing Analytics for Vehicle Resale](#)
-Developed a regression-based ML model to predict car resale values with **15% higher accuracy**, using advanced **feature engineering and regression tuning**.  
-**Tech Stack:** Python, Scikit-learn, Pandas, NumPy  
+Built regression-based model improving pricing accuracy by **15%** using feature engineering.  
+🛠 **Tech Stack:** Python, Scikit-learn, Pandas  
 
 ---
 
 ## 📊 Experience Snapshot  
 
 **ISRO – Data Science Intern**  
-*May 2024 – Jul 2024, Bangalore, India*  
-- Designed ML models that reduced processing time by **12%** and improved workflow reliability  
-- Built **interactive dashboards** in Tableau and Seaborn used by 30+ engineers for real-time decision-making  
+*May–Jul 2024 | Bangalore, India*  
+- Built ML models improving workflow reliability by **12%**  
+- Developed Tableau dashboards for **30+ engineers**, cutting decision time by **25%**
 
 **AI.ML.Ware – Data Science & Software Intern**  
-*Sep 2023 – Mar 2024, Mysuru, India*  
-- Processed **50,000+ multi-modal sensor records** (RFID, GPS, camera) improving data reliability and analytics  
-- Deployed real-time dashboards in Ubuntu, increasing user interaction efficiency by **20%**  
+*Sep 2023–Mar 2024 | Mysuru, India*  
+- Processed **50,000+ multimodal sensor records** and built real-time dashboards  
+- Improved field device accuracy by **15%**
 
 **Compsoft Technologies – AI Engineer (Research Intern)**  
-*Aug 2023 – Sep 2023, Bengaluru, India*  
-- Built an AI-driven **health virtual assistant** using BERT and TensorFlow achieving **85% response accuracy**  
-- Optimized query handling and user engagement by **30%** during pilot testing  
+*Aug–Sep 2023 | Bengaluru, India*  
+- Created a **healthcare AI assistant** using **TensorFlow & BERT**, achieving **85% accuracy**  
 
 ---
 
-## 🧩 Let’s Collaborate  
+## 🤝 Let’s Connect  
 
-I’m always open to collaborating on research or projects involving:  
-- 🧠 Machine Learning & Deep Learning  
-- 🧬 NLP & Generative AI  
-- 🛰️ Computer Vision & AI for Social Impact  
-- 📈 Predictive Analytics & Data Visualization  
-
-📫 **Reach me at:**  
-**Email:** lingegowda.n@northeastern.edu or nishchaylgowda26@gmail.com
-**LinkedIn:** [linkedin.com/in/nishchay-linge-gowda-262701224](https://linkedin.com/in/nishchay-linge-gowda-262701224)  
-**GitHub:** [github.com/20cse0235](https://github.com/20cse0235)  
+<p align="center">
+  <a href="https://linkedin.com/in/nishchay-linge-gowda-262701224">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:lingegowda.n@northeastern.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-⭐️ *“Data, when combined with purpose, has the power to transform systems and elevate human potential.”*  
+⭐️ *“Data, when combined with purpose, has the power to transform systems and elevate human potential.”*
